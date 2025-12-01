@@ -8,3 +8,7 @@
 ```py
 python main.py
 ```
+### linux
+```py
+python3 main.py
+```
